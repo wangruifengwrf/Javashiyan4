@@ -34,3 +34,6 @@ public interface student {
 ```
 
 # 六、结果截图
+![实验4](https://github.com/wangruifengwrf/Javashiyan4/blob/main/%E5%AE%9E%E9%AA%8C4.png)
+
+# 七、感想
